@@ -6,8 +6,10 @@
 Selenium 과 Beautifulsoup 라이브러리를 이용하여 동적 웹페이지 크롤링을 수행하였습니다.
 
 ## 크롤링한 페이지
-[소비자 24 포털 주소](https://www.consumer.go.kr/user/ftc/consumer/dlvrpc/980/selectDlvrList.do)
-[요기요](https://www.yogiyo.co.kr/mobile/#/)
+
+[소비자 24 포털 주소](https://www.consumer.go.kr/user/ftc/consumer/dlvrpc/980/selectDlvrList.do)https://www.consumer.go.kr/user/ftc/consumer/dlvrpc/980/selectDlvrList.do
+
+[요기요](https://www.yogiyo.co.kr/mobile/#/)https://www.yogiyo.co.kr/mobile/#/
 
 
 
